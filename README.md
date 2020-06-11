@@ -16,6 +16,7 @@
           give privilege to the user : ALTER USER user_1 WITH SUPERUSER; (\du find user_1 is superuser)
           drop a user : DROP USER username;
           find all comand : man psql
+          tutorial : https://www.youtube.com/watch?v=-LwI4HMR_Eg&t=3s
   
   
 
