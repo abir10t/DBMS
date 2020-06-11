@@ -7,5 +7,11 @@
 ### SQL vs Mysq :
     sql is a standard basically that (MySql, SQLite, PostgresSQL, Oracle) these relational dbms system like mysql are   implementing. MySql, SQLite, PostgresSQL, Oracle all use sql but they are not identical.They are different form what the features
     they offer.
+    
+    
+### install postgresql :
+  for changing password : ALTER USER postgres WITH PASSWORD 'test123';
+  
+
   
   
