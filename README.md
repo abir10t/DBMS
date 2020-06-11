@@ -11,6 +11,14 @@
     
 ### install postgresql :
   for changing password : ALTER USER postgres WITH PASSWORD 'test123';
+  for create a new user : CREATE USER user_1 WITH PASSWORD 'test123';
+  list out user by using : \du
+  give privilege to the user : ALTER USER user_1 WITH SUPERUSER; (\du find user_1 is superuser)
+  drop a user : DROP USER username;
+  find all comand : man psql
+  
+  
+
   
 
   
